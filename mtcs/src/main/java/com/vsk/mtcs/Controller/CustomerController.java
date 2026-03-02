@@ -16,7 +16,6 @@ public class CustomerController {
 
     @PostMapping
     public CustomerResponse create(@RequestBody CustomerRequest request) {
-        // TODO: Implement create method in CustomerService
         return null;
     }
 
